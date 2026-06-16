@@ -712,16 +712,16 @@
                         <button data-theme="cosmic">Космос</button>
                         <button data-theme="desert">Пустыня</button>
                         <button data-theme="marlboro">Marlboro</button>
-                        <button data-theme="sakura">🌸 Сакура</button>
-                        <button data-theme="midnight">🌙 Полночь</button>
-                        <button data-theme="aurora">🌌 Северное сияние</button>
-                        <button data-theme="lavender">💜 Лаванда</button>
-                        <button data-theme="cherry">🍒 Вишня</button>
-                        <button data-theme="geometric">📐 Геометрия</button>
-                        <button data-theme="waves">🌊 Волны</button>
-                        <button data-theme="dots">⏺ Точки</button>
-                        <button data-theme="stripes">〰 Полосы</button>
-                        <button data-theme="triangles">△ Треугольники</button>
+                        <button data-theme="sakura">🌸Сакура</button>
+                        <button data-theme="midnight">Полночь</button>
+                        <button data-theme="aurora">Северное сияние</button>
+                        <button data-theme="lavender">Лаванда</button>
+                        <button data-theme="cherry">Вишня</button>
+                        <button data-theme="geometric">Геометрия</button>
+                        <button data-theme="waves">Волны</button>
+                        <button data-theme="dots">Точки</button>
+                        <button data-theme="stripes">Полосы</button>
+                        <button data-theme="triangles">Треугольники</button>
                         <button id="createCustomThemeBtn" style="background: #f59e0b; color:#1e1a2f;">✨ Создать свою тему</button>
                     </div>
                 </div>
@@ -731,7 +731,7 @@
         <div class="tabs">
             <button class="tab-btn active" data-tab="main">Основное</button>
             <button class="tab-btn" data-tab="bulk">Массовые покупки</button>
-            <button class="tab-btn" data-tab="author">👤 Автор</button>
+            <button class="tab-btn" data-tab="author">Автор</button>
         </div>
 
         <!-- Вкладка Основное -->
@@ -820,9 +820,9 @@
         <!-- Вкладка Автор -->
         <div id="tab-author" class="tab-content">
             <div class="author-section">
-                <div class="avatar">👨‍💻</div>
+                <div class="avatar">NekoSploit</div>
                 <h3>Автор проекта</h3>
-                <p>Создано с ❤️ для удобного управления финансами</p>
+                <p>Создано с для удобного управления финансами</p>
                 <p style="font-size: 14px; opacity: 0.6;">Благодарю за использование! Если вам понравилось — поддержите звёздочкой на GitHub ⭐</p>
                 <div class="author-links">
                     <a href="https://github.com/ExploitRunner2" target="_blank" rel="noopener noreferrer">
